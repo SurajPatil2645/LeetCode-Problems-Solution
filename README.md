@@ -10,11 +10,13 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -61,4 +63,9 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
