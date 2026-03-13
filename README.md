@@ -6,6 +6,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0031-next-permutation/) | Medium |
 | [0054-spiral-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0054-spiral-matrix/) | Medium |
@@ -60,6 +61,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0001-two-sum/) | Easy |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
