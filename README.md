@@ -96,6 +96,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0009-palindrome-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0204-count-primes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0204-count-primes/) | Medium |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +127,5 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
