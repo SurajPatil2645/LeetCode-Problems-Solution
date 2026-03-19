@@ -137,4 +137,20 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0078-subsets](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0090-subsets-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
