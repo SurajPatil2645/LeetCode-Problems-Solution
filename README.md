@@ -45,6 +45,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0344-reverse-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,4 +165,8 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
