@@ -43,6 +43,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0075-sort-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0344-reverse-string/) | Easy |
@@ -80,6 +81,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0001-two-sum/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -183,6 +185,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
