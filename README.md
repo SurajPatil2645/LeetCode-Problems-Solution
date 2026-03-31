@@ -25,6 +25,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0704-binary-search/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -164,11 +167,13 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0100-same-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0100-same-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0100-same-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
