@@ -10,6 +10,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0015-3sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0051-n-queens/) | Hard |
@@ -31,6 +32,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
