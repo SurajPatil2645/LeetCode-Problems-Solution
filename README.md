@@ -41,6 +41,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0015-3sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0018-4sum/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0088-merge-sorted-array/) | Easy |
@@ -63,6 +64,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -184,6 +186,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
