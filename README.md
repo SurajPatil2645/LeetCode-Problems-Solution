@@ -15,6 +15,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0046-permutations](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0078-subsets/) | Medium |
@@ -116,6 +117,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0204-count-primes/) | Medium |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
