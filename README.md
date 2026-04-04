@@ -34,6 +34,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -120,6 +121,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0204-count-primes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0204-count-primes/) | Medium |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
