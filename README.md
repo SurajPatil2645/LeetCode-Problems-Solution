@@ -83,6 +83,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -177,6 +178,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0094-binary-tree-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -184,6 +186,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0094-binary-tree-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -199,6 +202,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0094-binary-tree-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
