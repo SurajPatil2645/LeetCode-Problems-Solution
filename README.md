@@ -71,6 +71,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -89,6 +90,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0067-add-binary/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Hash Table
@@ -123,6 +125,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0204-count-primes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0204-count-primes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0367-valid-perfect-square/) | Easy |
@@ -140,6 +143,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0090-subsets-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
