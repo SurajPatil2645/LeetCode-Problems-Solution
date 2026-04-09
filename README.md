@@ -252,4 +252,8 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
