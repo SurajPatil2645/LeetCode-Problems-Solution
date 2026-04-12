@@ -265,6 +265,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0175-combine-two-tables](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0176-second-highest-salary/) | Medium |
 | [0184-department-highest-salary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0577-employee-bonus/) | Easy |
 | [1148-article-views-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1148-article-views-i/) | Easy |
