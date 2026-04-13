@@ -268,5 +268,6 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0185-department-top-three-salaries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0577-employee-bonus/) | Easy |
+| [0595-big-countries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1148-article-views-i/) | Easy |
 <!---LeetCode Topics End-->
