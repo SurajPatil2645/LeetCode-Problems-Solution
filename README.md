@@ -274,4 +274,5 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1148-article-views-i/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 <!---LeetCode Topics End-->
