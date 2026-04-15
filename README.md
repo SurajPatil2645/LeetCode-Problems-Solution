@@ -269,6 +269,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0184-department-highest-salary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0595-big-countries/) | Easy |
