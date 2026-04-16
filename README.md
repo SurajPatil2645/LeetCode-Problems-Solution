@@ -73,6 +73,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0067-add-binary/) | Easy |
@@ -103,6 +104,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -191,6 +193,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0051-n-queens/) | Hard |
