@@ -136,6 +136,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0009-palindrome-number/) | Easy |
+| [0029-divide-two-integers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0069-sqrtx/) | Easy |
@@ -160,6 +161,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0090-subsets-ii/) | Medium |
