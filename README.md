@@ -25,6 +25,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0204-count-primes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -39,6 +40,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0069-sqrtx](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -69,6 +71,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0075-sort-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0389-find-the-difference/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -109,6 +112,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0141-linked-list-cycle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
@@ -143,6 +147,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0204-count-primes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0509-fibonacci-number/) | Easy |
@@ -168,6 +173,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0190-reverse-bits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0389-find-the-difference/) | Easy |
 ## Prefix Sum
