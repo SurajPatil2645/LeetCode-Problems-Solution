@@ -157,6 +157,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0066-plus-one](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0069-sqrtx/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0258-add-digits/) | Easy |
