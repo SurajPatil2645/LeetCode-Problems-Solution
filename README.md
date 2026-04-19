@@ -96,6 +96,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0151-reverse-words-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0389-find-the-difference/) | Easy |
+| [0412-fizz-buzz](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -112,6 +113,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0054-spiral-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -164,6 +166,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0268-missing-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
