@@ -13,6 +13,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0035-search-insert-position](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0066-plus-one/) | Easy |
@@ -143,6 +144,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
@@ -160,6 +162,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0029-divide-two-integers/) | Medium |
+| [0048-rotate-image](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0069-sqrtx/) | Easy |
