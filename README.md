@@ -13,6 +13,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0035-search-insert-position](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0054-spiral-matrix/) | Medium |
@@ -83,6 +84,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0015-3sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -233,6 +235,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0078-subsets/) | Medium |
