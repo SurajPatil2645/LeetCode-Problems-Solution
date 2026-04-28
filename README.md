@@ -114,6 +114,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0389-find-the-difference](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0443-string-compression/) | Medium |
+| [0504-base-7](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0504-base-7/) | Easy |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Stack
@@ -191,6 +192,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0357-count-numbers-with-unique-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0367-valid-perfect-square](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0412-fizz-buzz/) | Easy |
+| [0504-base-7](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
