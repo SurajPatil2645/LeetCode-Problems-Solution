@@ -24,6 +24,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0088-merge-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0118-pascals-triangle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0204-count-primes/) | Medium |
@@ -229,6 +230,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0338-counting-bits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0338-counting-bits/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
