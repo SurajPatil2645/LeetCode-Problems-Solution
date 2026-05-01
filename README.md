@@ -63,6 +63,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0349-intersection-of-two-arrays](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0349-intersection-of-two-arrays](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0443-string-compression](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Sorting
@@ -201,6 +203,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0412-fizz-buzz](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0504-base-7](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0509-fibonacci-number/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
