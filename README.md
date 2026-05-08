@@ -41,6 +41,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0349-intersection-of-two-arrays](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0427-construct-quad-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0427-construct-quad-tree/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0500-keyboard-row/) | Easy |
@@ -178,6 +179,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0427-construct-quad-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0427-construct-quad-tree/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Divide and Conquer
@@ -189,6 +191,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0191-number-of-1-bits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0427-construct-quad-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0427-construct-quad-tree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +295,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0199-binary-tree-right-side-view](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
+| [0427-construct-quad-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0427-construct-quad-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
