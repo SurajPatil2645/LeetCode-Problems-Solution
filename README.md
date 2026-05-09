@@ -49,6 +49,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0704-binary-search/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1914-cyclically-rotating-a-grid](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -143,6 +144,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0258-add-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Hash Table
@@ -180,6 +182,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0427-construct-quad-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0427-construct-quad-tree/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Divide and Conquer
