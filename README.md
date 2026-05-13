@@ -50,6 +50,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0704-binary-search](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0704-binary-search/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2460-apply-operations-to-an-array/) | Easy |
@@ -171,6 +172,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0500-keyboard-row](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -254,6 +256,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
