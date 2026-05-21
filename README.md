@@ -64,6 +64,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0504-base-7](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0504-base-7/) | Easy |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -456,6 +459,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0386-lexicographical-numbers/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
