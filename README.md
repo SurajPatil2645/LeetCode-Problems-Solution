@@ -365,6 +365,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1306-jump-game-iii/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -420,6 +421,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0141-linked-list-cycle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -490,4 +492,8 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3161-block-placement-queries/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
