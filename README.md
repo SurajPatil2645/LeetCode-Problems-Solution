@@ -272,10 +272,12 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0204-count-primes/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +318,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1340-jump-game-v](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1340-jump-game-v/) | Hard |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2320-count-number-of-ways-to-place-houses/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
