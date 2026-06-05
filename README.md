@@ -273,6 +273,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +320,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1340-jump-game-v](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1340-jump-game-v/) | Hard |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2320-count-number-of-ways-to-place-houses/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
