@@ -62,6 +62,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -213,6 +214,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [1345-jump-game-iv](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -370,6 +372,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0427-construct-quad-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0427-construct-quad-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,6 +425,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
