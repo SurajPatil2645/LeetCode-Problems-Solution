@@ -52,6 +52,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0704-binary-search/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1345-jump-game-iv/) | Hard |
@@ -145,6 +146,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0389-find-the-difference](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2126-destroying-asteroids](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2126-destroying-asteroids/) | Medium |
