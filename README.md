@@ -177,6 +177,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3093-longest-common-suffix-queries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +285,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +320,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
