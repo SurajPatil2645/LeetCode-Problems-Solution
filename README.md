@@ -411,6 +411,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1306-jump-game-iii/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,6 +426,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1306-jump-game-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1345-jump-game-iv/) | Hard |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +473,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -550,6 +553,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 <!---LeetCode Topics End-->
