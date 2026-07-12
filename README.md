@@ -54,6 +54,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0989-add-to-array-form-of-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1345-jump-game-iv/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -152,6 +153,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0414-third-maximum-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2126-destroying-asteroids](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2126-destroying-asteroids/) | Medium |
@@ -225,6 +227,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0500-keyboard-row](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
