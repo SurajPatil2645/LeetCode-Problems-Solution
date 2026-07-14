@@ -12,6 +12,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0031-next-permutation](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0047-permutations-ii/) | Medium |
@@ -212,6 +213,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -246,6 +248,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -366,6 +369,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0047-permutations-ii/) | Medium |
