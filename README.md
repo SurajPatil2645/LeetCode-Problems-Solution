@@ -168,6 +168,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0067-add-binary/) | Easy |
@@ -190,6 +191,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
