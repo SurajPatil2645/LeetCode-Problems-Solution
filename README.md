@@ -196,6 +196,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0901-online-stock-span](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0901-online-stock-span/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -535,10 +536,12 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0901-online-stock-span](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0901-online-stock-span](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0901-online-stock-span/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -568,4 +571,8 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
