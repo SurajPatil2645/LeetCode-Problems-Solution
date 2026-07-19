@@ -195,6 +195,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0094-binary-tree-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0901-online-stock-span/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -535,6 +536,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0901-online-stock-span](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
