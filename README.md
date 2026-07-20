@@ -50,6 +50,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0442-find-all-duplicates-in-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0500-keyboard-row/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0704-binary-search/) | Easy |
@@ -199,6 +200,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0145-binary-tree-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0901-online-stock-span/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Simulation
@@ -546,6 +548,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0901-online-stock-span/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
