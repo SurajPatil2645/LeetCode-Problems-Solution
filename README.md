@@ -14,6 +14,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0035-search-insert-position](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0039-combination-sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0048-rotate-image/) | Medium |
@@ -118,6 +119,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0018-4sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0018-4sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0125-valid-palindrome/) | Easy |
@@ -194,6 +196,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -347,6 +350,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -546,6 +550,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
