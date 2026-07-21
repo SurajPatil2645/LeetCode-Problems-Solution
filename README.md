@@ -230,6 +230,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0138-copy-list-with-random-pointer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0268-missing-number/) | Easy |
@@ -488,6 +489,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0138-copy-list-with-random-pointer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0146-lru-cache/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -544,6 +546,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0901-online-stock-span](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0901-online-stock-span/) | Medium |
@@ -577,6 +580,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0146-lru-cache/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
