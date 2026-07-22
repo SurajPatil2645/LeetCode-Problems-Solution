@@ -203,6 +203,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0145-binary-tree-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0901-online-stock-span/) | Medium |
@@ -550,6 +551,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0146-lru-cache](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0901-online-stock-span](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
@@ -598,4 +600,5 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
