@@ -30,6 +30,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0118-pascals-triangle/) | Easy |
+| [0134-gas-station](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0134-gas-station/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -529,6 +530,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0134-gas-station](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0134-gas-station/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2126-destroying-asteroids/) | Medium |
