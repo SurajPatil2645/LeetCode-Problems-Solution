@@ -38,6 +38,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0215-kth-largest-element-in-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0229-majority-element-ii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0268-missing-number/) | Easy |
@@ -260,6 +261,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -539,6 +541,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -604,5 +607,10 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
