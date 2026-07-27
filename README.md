@@ -181,6 +181,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0125-valid-palindrome](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0257-binary-tree-paths](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0389-find-the-difference/) | Easy |
@@ -399,6 +400,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0078-subsets](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0257-binary-tree-paths](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -418,6 +420,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0222-count-complete-tree-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0427-construct-quad-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0427-construct-quad-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -437,6 +440,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -478,6 +482,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0222-count-complete-tree-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
