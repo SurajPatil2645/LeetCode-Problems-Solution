@@ -203,6 +203,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0042-trapping-rain-water](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0155-min-stack/) | Medium |
@@ -414,6 +415,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -435,6 +437,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0100-same-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -479,6 +482,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -508,6 +512,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0025-reverse-nodes-in-k-group](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
