@@ -29,6 +29,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0090-subsets-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0134-gas-station](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0134-gas-station/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -285,6 +286,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0190-reverse-bits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -414,6 +416,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -481,6 +484,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -600,6 +604,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
