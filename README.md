@@ -425,6 +425,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0222-count-complete-tree-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0427-construct-quad-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0427-construct-quad-tree/) | Medium |
@@ -449,6 +450,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0386-lexicographical-numbers/) | Medium |
@@ -498,6 +500,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0222-count-complete-tree-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -613,6 +616,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0098-validate-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Indexed Tree
