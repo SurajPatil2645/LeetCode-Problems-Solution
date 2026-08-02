@@ -431,6 +431,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -454,6 +455,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0543-diameter-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1306-jump-game-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1306-jump-game-iii/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -469,6 +471,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1306-jump-game-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1345-jump-game-iv/) | Hard |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -498,6 +501,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -606,6 +610,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0098-validate-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
