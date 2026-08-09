@@ -59,6 +59,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0704-binary-search/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [0994-rotting-oranges](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1306-jump-game-iii/) | Medium |
@@ -281,6 +282,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0427-construct-quad-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0427-construct-quad-tree/) | Medium |
+| [0994-rotting-oranges](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -486,6 +488,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0994-rotting-oranges](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1345-jump-game-iv/) | Hard |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
