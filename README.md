@@ -460,6 +460,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0199-binary-tree-right-side-view](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -487,6 +488,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0199-binary-tree-right-side-view](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -661,6 +663,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0210-course-schedule-ii/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -687,6 +690,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0210-course-schedule-ii/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
