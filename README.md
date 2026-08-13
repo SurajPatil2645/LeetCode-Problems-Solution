@@ -472,6 +472,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0419-battleships-in-a-board](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0733-flood-fill/) | Easy |
@@ -493,6 +494,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0207-course-schedule](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0226-invert-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -564,6 +566,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0547-number-of-provinces/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Database
@@ -668,6 +671,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0210-course-schedule-ii/) | Medium |
+| [0547-number-of-provinces](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0547-number-of-provinces/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
