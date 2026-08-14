@@ -67,6 +67,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1331-rank-transform-of-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1345-jump-game-iv/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -567,6 +568,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0547-number-of-provinces/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Database
@@ -672,6 +674,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0207-course-schedule](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0547-number-of-provinces/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -703,4 +706,20 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0207-course-schedule/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
