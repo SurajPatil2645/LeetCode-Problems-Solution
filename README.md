@@ -597,6 +597,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0595-big-countries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0608-tree-node](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0608-tree-node/) | Medium |
+| [0619-biggest-single-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0626-exchange-seats/) | Medium |
 | [1148-article-views-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1148-article-views-i/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
