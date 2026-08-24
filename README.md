@@ -605,6 +605,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0619-biggest-single-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0626-exchange-seats/) | Medium |
 | [1148-article-views-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1148-article-views-i/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
