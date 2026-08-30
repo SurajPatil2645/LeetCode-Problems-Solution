@@ -612,6 +612,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1407-top-travellers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1407-top-travellers/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
+| [3436-find-valid-emails](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3436-find-valid-emails/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
