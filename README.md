@@ -93,6 +93,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -273,6 +274,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -295,6 +297,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1914-cyclically-rotating-a-grid](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +369,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0389-find-the-difference](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -515,6 +519,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1345-jump-game-iv](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1345-jump-game-iv/) | Hard |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
