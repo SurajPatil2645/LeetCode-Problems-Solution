@@ -35,6 +35,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0198-house-robber](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -387,6 +388,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0070-climbing-stairs](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0198-house-robber](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0338-counting-bits/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0509-fibonacci-number/) | Easy |
