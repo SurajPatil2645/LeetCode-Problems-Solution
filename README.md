@@ -343,6 +343,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3870-count-commas-in-range](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
