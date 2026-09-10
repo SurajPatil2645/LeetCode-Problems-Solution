@@ -468,6 +468,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -502,6 +503,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0787-cheapest-flights-within-k-stops](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1306-jump-game-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1306-jump-game-iii/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -562,6 +564,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
