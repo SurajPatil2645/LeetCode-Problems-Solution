@@ -94,6 +94,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3161-block-placement-queries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -277,6 +278,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3120-count-the-number-of-special-characters-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -351,6 +353,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0204-count-primes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1291-sequential-digits/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -413,6 +416,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0231-power-of-two](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
