@@ -186,6 +186,7 @@ This repositary contains the solutions of solved LeetCode Problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0020-valid-parentheses/) | Easy |
