@@ -1,23 +1,26 @@
 class Solution {
 public:
     bool isValid(string s) {
+        if (s.length() % 2 != 0) return false;
+
         stack<char> st;
-        for(int i=0;i<s.size();i++){
-            if(s[i] == '(' || s[i] == '[' || s[i] == '{'){
-                st.push(s[i]);
-            } else{
-                if(st.size() == 0){
+        unordered_map<char, char> matching = {
+            {')', '('},
+            {'}', '{'},
+            {']', '['}
+        };
+
+        for (char c : s) {
+            if (matching.count(c)) {
+                if (st.empty() || st.top() != matching[c]) {
                     return false;
                 }
-                if((st.top() == '(' && s[i] == ')') ||
-                    (st.top() == '[' && s[i] == ']') ||
-                    (st.top() == '{' && s[i] == '}')){
-                        st.pop();
-                } else{
-                    return false;
-                }
+                st.pop();
+            } else {
+                st.push(c);
             }
         }
-        return st.size() == 0;
+
+        return st.empty();
     }
 };
