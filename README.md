@@ -208,6 +208,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0500-keyboard-row](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0500-keyboard-row/) | Easy |
 | [0504-base-7](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0504-base-7/) | Easy |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -233,6 +234,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0232-implement-queue-using-stacks](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0901-online-stock-span](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -411,6 +413,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0338-counting-bits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0338-counting-bits/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -653,6 +656,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0134-gas-station](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0134-gas-station/) | Medium |
 | [0409-longest-palindrome](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0409-longest-palindrome/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2126-destroying-asteroids/) | Medium |
@@ -799,6 +803,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
