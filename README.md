@@ -89,6 +89,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -293,6 +294,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2540-minimum-common-value](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -398,6 +400,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0338-counting-bits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Prefix Sum
@@ -671,6 +674,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
