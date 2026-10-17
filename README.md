@@ -102,6 +102,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3483-unique-3-digit-even-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -187,6 +188,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -308,6 +310,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sliding Window
