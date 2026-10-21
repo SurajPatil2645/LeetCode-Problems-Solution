@@ -229,6 +229,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3120-count-the-number-of-special-characters-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
