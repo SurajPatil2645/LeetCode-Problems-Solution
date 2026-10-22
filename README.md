@@ -77,6 +77,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -129,6 +130,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0704-binary-search/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2540-minimum-common-value/) | Easy |
 | [3161-block-placement-queries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3161-block-placement-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -184,6 +186,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1331-rank-transform-of-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2784-check-if-array-is-good/) | Easy |
