@@ -107,6 +107,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -417,6 +418,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
