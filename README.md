@@ -228,6 +228,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2409-count-days-spent-together](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -375,6 +376,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0633-sum-of-square-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [2409-count-days-spent-together](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
