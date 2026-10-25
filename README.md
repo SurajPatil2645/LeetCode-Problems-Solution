@@ -65,6 +65,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0989-add-to-array-form-of-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0994-rotting-oranges](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -337,6 +338,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0427-construct-quad-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0427-construct-quad-tree/) | Medium |
 | [0733-flood-fill](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0994-rotting-oranges/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -551,6 +553,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1192-critical-connections-in-a-network/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1306-jump-game-iii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -575,6 +578,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0994-rotting-oranges/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1345-jump-game-iv/) | Hard |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -646,6 +650,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0547-number-of-provinces/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
