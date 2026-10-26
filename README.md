@@ -106,6 +106,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -343,6 +344,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -558,6 +560,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -584,6 +587,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2596-check-knight-tour-configuration](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -654,6 +658,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1584-min-cost-to-connect-all-points](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
