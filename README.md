@@ -240,6 +240,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -725,6 +726,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0215-kth-largest-element-in-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -802,6 +804,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2685-count-the-number-of-complete-components](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -850,6 +853,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
