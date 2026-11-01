@@ -54,6 +54,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0419-battleships-in-a-board](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0427-construct-quad-tree](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0427-construct-quad-tree/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0500-keyboard-row/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -383,6 +384,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0357-count-numbers-with-unique-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0367-valid-perfect-square](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0412-fizz-buzz/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0504-base-7](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
