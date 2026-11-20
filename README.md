@@ -98,6 +98,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -203,6 +204,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -475,6 +477,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1340-jump-game-v](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1340-jump-game-v/) | Hard |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2320-count-number-of-ways-to-place-houses/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
