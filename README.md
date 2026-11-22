@@ -243,6 +243,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2409-count-days-spent-together](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
