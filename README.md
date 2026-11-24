@@ -106,6 +106,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [3161-block-placement-queries](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -347,6 +348,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,6 +412,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [2409-count-days-spent-together](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -425,6 +428,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | [0204-count-primes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/1291-sequential-digits/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
@@ -432,6 +436,7 @@ This repositary contains the solutions of solved LeetCode Problems
 | ------- | ------- |
 | [0204-count-primes](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/0258-add-digits/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SurajPatil2645/LeetCode-Problems-Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
